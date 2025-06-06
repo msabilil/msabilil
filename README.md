@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Muhammad Sabilil Fajri**.
 Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).  
-Saat ini saya sedang kuliah di Universitas Komputer Indoneisa.  
+Saat ini saya sedang kuliah di Universitas Komputer Indonesia.  
 
 <p align="left">
 <a href="https://github.com/gilangadhan">
